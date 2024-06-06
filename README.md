@@ -2,23 +2,16 @@
 
 A Quasar Project
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+#Догрузить зависимости
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
+npm i
+
+#Запуск проекта
+
 quasar dev
-```
 
 
-### Build the app for production
-```bash
-quasar build
-```
+#Путь к компоненту 
+src/components/Characters.vue
 
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+
