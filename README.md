@@ -1,17 +1,16 @@
 # Quasar App (backend)
 
-A Quasar Project
 
-#Догрузить зависимости
+Догрузить зависимости
 
 npm i
 
-#Запуск проекта
+Запуск проекта
 
 quasar dev
 
 
-#Путь к компоненту 
+Путь к компоненту 
 src/components/Characters.vue
 
 
